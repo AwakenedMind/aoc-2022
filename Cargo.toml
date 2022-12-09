@@ -19,3 +19,4 @@ harness = false
 
 [dependencies]
 indoc = "1.0"
+petgraph = "0.6.2"
